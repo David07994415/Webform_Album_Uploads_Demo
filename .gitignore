@@ -1,0 +1,9 @@
+.vs/
+packages/
+WebApplication1/bin/
+WebApplication1/Content/
+WebApplication1/obj/
+WebApplication1/Scripts/
+WebApplication1/Uploads/
+*.user
+*.config
